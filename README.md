@@ -1,4 +1,4 @@
-# HTTP Concatenation module for Nginx
+# Nginx HTTP Slice module
 
 ## Introduction 
 
