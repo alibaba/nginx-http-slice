@@ -94,7 +94,7 @@ served by Nginx.
 <br/>
 <br/>
 
-**slice_header_first** 'on' | 'off'
+**slice_header_first** `on` | `off`
 
 **default:** `on`
 
@@ -110,7 +110,7 @@ slice from the remaining slices. The first slice is the one which has
 <br/>
 <br/>
 
-**slice_footer_last** 'on' | 'off'
+**slice_footer_last** `on` |  `off `
 
 **default:** `on`
 
