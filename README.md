@@ -37,7 +37,7 @@ require a special [HTTP header](https://en.wikipedia.org/wiki/Byte_serving).
 
 So we would request the first 1k of the file like this:
 
-    http://example.com/video-dump/large_vid.mp4?s=0&e=124
+    http://example.com/video-dump/large_vid.mp4?s=0&e=1024
 
 Notice `s=0`, start at `0` and `e=1024`, stop at `1024` bytes (1k). 
 
