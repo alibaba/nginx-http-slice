@@ -185,7 +185,7 @@ this last slice has no footer.
 
  1. Clone the git repo.
      
-        git clone git://github.com/taobao/nginx-http-slice.git
+        git clone git://github.com/alibaba/nginx-http-slice.git
 
  2. Add the module to the build configuration by adding
     `--add-module=/path/to/nginx-http-slice`.
